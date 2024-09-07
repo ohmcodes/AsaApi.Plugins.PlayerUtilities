@@ -1,5 +1,5 @@
-# AsaApi.Plugins.Releases.Template
-ARK:SA ServerAPI Plugin for &lt;plugin> related commands
+# AsaApi.Plugins.PlayerUtilities
+ARK:SA ServerAPI Plugin for Player related commands
 
 # Requirements
 - ServerAPI [Download/Install](https://github.com/ArkServerApi/AsaApi/releases)
