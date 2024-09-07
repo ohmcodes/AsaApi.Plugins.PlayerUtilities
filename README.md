@@ -18,7 +18,7 @@ ARK:SA ServerAPI Plugin for Player related commands
 - Console Log (No Message received)  Doesn't affect anything - Still waiting for ServerAPI update 
 
 # RELOAD COMMANDS​
-Both RCON and Console command: `plugin.Reload`
+Both RCON and Console command: `PlayerUtilities.Reload`
 
 
 # Support
